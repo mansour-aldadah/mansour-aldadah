@@ -1,6 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=your-github-mansour-aldadah)
 
-![Hey there, I'm Mansour. I'm a Web Full Stack Developer .](https://media.giphy.com/media/fmK5sRNvnqva93JC2J/giphy.gif)
 
 
 
