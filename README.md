@@ -1,6 +1,4 @@
-![](https://komarev.com/ghpvc/?username=your-github-mansour-aldadah)
-
-
+[](https://komarev.com/ghpvc/?username=your-github-mansour-aldadah)
 
 
 ###
