@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm Mansour from Palestine<br>- 🔭 I’m working as Web Developer 🌐 || Laravel. <br>- 🌱 Exploring Technical Content Writing.<br>- ⚡ In my free time, I develop myself, solve problems and read tech articles.</p>
+<p align="left">I'm Mansour from Palestine<br>- 🔭 I’m working as a Laravel Developer 🌐 <br>- 🌱 Exploring Technical Content Writing.<br>- ⚡ In my free time, I develop myself, solve problems and read tech articles.</p>
 
 ###
 
