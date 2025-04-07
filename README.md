@@ -1,6 +1,8 @@
 <div style="width: 100%; text-align: left;">
   <h1 style="display: inline; !important">💫 About Me:</h1>
-  <img src="https://pageview.vercel.app/?github_user=mansour-aldadah" alt="Profile Views" style="float: right; !important"/>
+  
+![pv](https://pageview.vercel.app/?github_user=mansour-aldadah)
+
 </div>
 
 
