@@ -1,9 +1,7 @@
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <div>
     
-    ![pv](https://pageview.vercel.app/?github_user=mansour-aldadah)
+  <img src="https://pageview.vercel.app/?github_user=mansour-aldadah" alt="Profile Views" />
     
-  </div>
   
   <div>### 💫 About Me:</div>
 
