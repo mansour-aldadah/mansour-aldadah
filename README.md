@@ -1,7 +1,10 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: inline-block;">
   <h1>💫 About Me:</h1>
-  <img src="https://pageview.vercel.app/?github_user=mansour-aldadah" alt="Profile Views" style="float: right;" />
 </div>
+<div style="display: inline-block; float: right;">
+  <img src="https://pageview.vercel.app/?github_user=mansour-aldadah" alt="Profile Views" />
+</div>
+
 
 I'm Mansour from Gaza, Palestine 🇵🇸<br><br>
 🔭 I’m working as a Laravel Developer, building secure, scalable web apps and APIs 🌐<br>
