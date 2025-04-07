@@ -1,6 +1,21 @@
-![pv](https://pageview.vercel.app/?github_user=mansour-aldadah)
-# 💫 About Me:
-I'm Mansour from Gaza, Palestine 🇵🇸<br><br>🔭 I’m working as a Laravel Developer, building secure, scalable web apps and APIs 🌐<br>🌱 Currently exploring Technical Content Writing and AI in web development<br>💡 Passionate about clean code, performance optimization, and solving real-world problems<br>⚛️ I also have intermediate knowledge of React, and enjoy using it to build dynamic frontends<br>⚡ In my free time, I develop myself, solve challenges, contribute to open source, and read tech articles
+<table width="100%">
+  <tr>
+    <td align="left" width="70%">
+      
+### 💫 About Me:
+I'm Mansour from Gaza, Palestine 🇵🇸<br><br>
+🔭 I’m working as a Laravel Developer, building secure, scalable web apps and APIs 🌐<br>
+🌱 Currently exploring Technical Content Writing and AI in web development<br>
+💡 Passionate about clean code, performance optimization, and solving real-world problems<br>
+⚛️ I also have intermediate knowledge of React, and enjoy using it to build dynamic frontends<br>
+⚡ In my free time, I develop myself, solve challenges, contribute to open source, and read tech articles
+
+  </td>
+  <td align="right" width="30%">
+    <img src="https://pageview.vercel.app/?github_user=mansour-aldadah" alt="Profile Views" />
+  </td>
+  </tr>
+</table>
 
 
 ## 🌐 Socials:
