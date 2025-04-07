@@ -1,5 +1,5 @@
 # 💫 About Me: 
-<img src="https://pageview.vercel.app/?github_user=mansour-aldadah" alt="Profile Views" />
+<img src="https://pageview.vercel.app/?github_user=mansour-aldadah" alt="Profile Views" style="float➡️" />
 I'm Mansour from Gaza, Palestine 🇵🇸<br><br>
 🔭 I’m working as a Laravel Developer, building secure, scalable web apps and APIs 🌐<br>
 🌱 Currently exploring Technical Content Writing and AI in web development<br>
