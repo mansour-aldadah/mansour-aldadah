@@ -7,7 +7,7 @@ I'm Mansour from Gaza, Palestine 🇵🇸<br><br>🔭 I’m working as a Laravel
 
 # 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,java,php,cpp,tailwind,windows,jquery,laravel,react,redux,sass,vue,MySQL,apache,xd,ps,figma,python,git,github,bootstrap,notion,linkedin,postman,canva,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,java,php,cpp,tailwind,windows,jquery,laravel,react,redux,sass,vue,MySQL,apache,xd,ps,figma,python,git,github,bootstrap,notion,linkedin,postman,vite)](https://skillicons.dev)
 
 
 # 📊 GitHub Stats:
