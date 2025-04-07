@@ -1,15 +1,12 @@
-<div style="width: 100%; text-align: left;">
-  <div style="display: inline; !important">
+  <div style=" text-align: right">
 
 ![pv](https://pageview.vercel.app/?github_user=mansour-aldadah)
     
   </div>
-  <h1 style="display: inline; !important">💫 About Me:</h1>
+
   
-
-</div>
-
-
+<h1 style="display: inline; !important">💫 About Me:</h1>
+  
 I'm Mansour from Gaza, Palestine 🇵🇸<br><br>
 🔭 I’m working as a Laravel Developer, building secure, scalable web apps and APIs 🌐<br>
 🌱 Currently exploring Technical Content Writing and AI in web development<br>
