@@ -1,6 +1,7 @@
-<h1 style="display: inline-block;">💫 About Me:</h1>
-<img src="https://pageview.vercel.app/?github_user=mansour-aldadah" alt="Profile Views" style="float: right;"/>
-
+<div style="width: 100%; text-align: left;">
+  <h1 style="display: inline;">💫 About Me:</h1>
+  <img src="https://pageview.vercel.app/?github_user=mansour-aldadah" alt="Profile Views" style="float: right;"/>
+</div>
 
 
 I'm Mansour from Gaza, Palestine 🇵🇸<br><br>
