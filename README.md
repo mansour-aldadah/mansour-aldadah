@@ -20,8 +20,8 @@ I'm Mansour from Gaza, Palestine 🇵🇸<br><br>🔭 I’m working as a Laravel
 ### ✍️ Random Dev Quote
 <div class="text-center">
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-</div>
 ---
 [![](https://visitcount.itsvg.in/api?id=mansour-aldadah&icon=0&color=3)](https://visitcount.itsvg.in)
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
