@@ -1,8 +1,13 @@
 <div style="display: flex; justify-content: space-between; align-items: center;">
+  <div>
+    
+    ![pv](https://pageview.vercel.app/?github_user=mansour-aldadah)
+    
+  </div>
   
-![pv](https://pageview.vercel.app/?github_user=mansour-aldadah)
+  <div>### 💫 About Me:</div>
 
-### 💫 About Me:
+
 
 </div>
 
