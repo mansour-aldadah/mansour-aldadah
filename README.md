@@ -1,6 +1,6 @@
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <h3> # 💫 About Me: </h3>
-  <img src="https://pageview.vercel.app/?github_user=mansour-aldadah" alt="Profile Views" />
+# 💫 About Me: 
+<img src="https://pageview.vercel.app/?github_user=mansour-aldadah" alt="Profile Views" />
 </div>
 I'm Mansour from Gaza, Palestine 🇵🇸<br><br>
 🔭 I’m working as a Laravel Developer, building secure, scalable web apps and APIs 🌐<br>
