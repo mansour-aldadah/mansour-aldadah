@@ -1,5 +1,5 @@
 <div style="text-align: right;">
-  <img src="https://pageview.vercel.app/?github_user=mansour-aldadah" alt="Profile Views" style="display: inline-block;" />
+<img src="https://komarev.com/ghpvc/?username=mansour-aldadah&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
   
